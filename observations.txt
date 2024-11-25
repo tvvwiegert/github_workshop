@@ -4,4 +4,4 @@ M87              ALMA            230                 2.5
 NGC 6946         MeerKAT         1.4                 15               
 M51              VLA             3.0                 5               
 Andromeda        GMRT            0.325               100              
-NGC 253          ALMA            115                
+NGC 253          ALMA            115                 2.5
